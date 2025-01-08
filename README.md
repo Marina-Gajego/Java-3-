@@ -29,7 +29,7 @@ O curso aborda como manipular e ordenar coleções de dados no Java utilizando a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-listas-colecoes.git
+   git clone https://github.com/seu-usuario/Java-trabalhando-com-listas-e-colecoes-de-dados.git
 Abra o projeto no IntelliJ IDEA.
 Configure o JDK (Java Development Kit) caso necessário.
 Execute os arquivos .java para verificar o funcionamento dos exemplos e atividades.
